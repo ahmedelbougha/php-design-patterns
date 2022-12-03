@@ -33,7 +33,7 @@ problems. Once you learn the design pattern and its concept, it will be effortle
 | 15 | Observer            |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Observer)  | Soon  |                                                                                                
 | 16 | Prototype           |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Prototype)  | Soon  |                                                                                                
 | 17 | Proxy               |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Proxy)  | Soon  |                                                                                                
-| 18 | Singleton           |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Singleton)  | Soon  |                                                                                                
+| 18 | Singleton           |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Singleton)  | Soon and [ HERE ](https://refactoring.guru/design-patterns/singleton) | DONE |                                                                   
 | 19 | State               |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/State)  | Soon  |                                                                                                
 
 ## Coming soon

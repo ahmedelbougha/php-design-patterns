@@ -20,7 +20,7 @@ problems. Once you learn the design pattern and its concept, it will be effortle
 | 2 | Facade              |[HERE](https://github.com/gabrielanhaia/php-design-patterns/tree/main/src/Facade)  | [LEARN HERE 📖 ](https://medium.com/mestredev/facade-php-8-design-patterns-40b1ef8566b5)  | DONE |            
 | 3 | Template Method     |[HERE](https://github.com/gabrielanhaia/php-design-patterns/tree/main/src/TemplateMethod)  | [LEARN HERE 📖 ](https://medium.com/mestredev/template-method-php-8-a357f3665a4b) |                     
 | 4 | Strategy            |[HERE](https://github.com/gabrielanhaia/php-design-patterns/tree/main/src/Strategy)  | [LEARN HERE 📖 ](https://medium.com/mestredev/strategy-in-php-8-design-patterns-2044e5ef54ed) |        
-| 5 | Abstract Factory    |[HERE](https://github.com/gabrielanhaia/php-design-patterns/tree/main/src/AbstractFactory)  | Soon  |
+| 5 | Abstract Factory    |[HERE](https://github.com/gabrielanhaia/php-design-patterns/tree/main/src/AbstractFactory)  | Soon  | DONE |
 | 6 | Builder             |[HERE](https://github.com/gabrielanhaia/php-design-patterns/tree/main/src/Builder)  | Soon  |                                                                                                
 | 7 | Composite           |[HERE](https://github.com/gabrielanhaia/php-design-patterns/tree/main/src/Composite)  | Soon  |                                                                                                
 | 8 | Decorator           |[HERE](https://github.com/gabrielanhaia/php-design-patterns/tree/main/src/Decorator)  | Soon  |

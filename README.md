@@ -4,7 +4,7 @@
 ![Package Stars](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow)
 
 Everyweek a new Pattern + Article on www.medium.com/@anhaia.gabriel and www.medium.com/mestredev  
-**Also, you can check** [ Refacroring Guru ](https://refactoring.guru/design-patterns) **for infomration and better understanding of the design patterns.**
+**Also, you can check [ Refacroring Guru ](https://refactoring.guru/design-patterns) and [ Geeks for Geeks ](https://www.geeksforgeeks.org/) for infomration and better understanding of the design patterns.**
 
 # PHP 8.1 - Design Patterns
 

@@ -27,7 +27,7 @@ problems. Once you learn the design pattern and its concept, it will be effortle
 | 9 | Factory Method      |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/FactoryMethod)  | Soon and [ HERE ](https://refactoring.guru/design-patterns/factory-method) | DONE |
 | 10 | Flyweight           |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Flyweight)  | Soon  |
 | 11 | Iterator            |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Iterator)  | Soon and [ HERE ](https://refactoring.guru/design-patterns/iterator) | DONE |
-| 12 | Memento             |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Memento)  | Soon  |
+| 12 | Memento             |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Memento)  | Soon  and [ HERE ](https://refactoring.guru/design-patterns/memento/typescript/example) | DONE |
 | 13 | Money               |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Money)  | Soon and [ HERE ](https://code.tutsplus.com/tutorials/money-pattern-the-right-way-to-represent-value-unit-pairs--net-35509)  | DONE |
 | 14 | Null Object         |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/NullObject)  | Soon  and [ HERE ](https://www.geeksforgeeks.org/null-object-design-pattern/)| DONE |                                                                                           
 | 15 | Observer            |[HERE](https://github.com/ahmedelbougha/php-design-patterns/tree/main/src/Observer)  | Soon  |                                                                                                
